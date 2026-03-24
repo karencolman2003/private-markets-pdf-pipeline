@@ -1,0 +1,11 @@
+{
+  "cleanest_source": "annual-investment-report-fy-2024.pdf",
+  "high_confidence_sample_rows": 15,
+  "figure_files": [
+    "confidence_flag_distribution.html",
+    "field_completeness_by_source.html",
+    "records_by_source.html",
+    "top_funds_by_nav.html",
+    "validation_issue_breakdown.html"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "record_count": 639,
+  "source_count": 3,
+  "fund_count": 602,
+  "missingness": {
+    "source_name": 0.0,
+    "source_file": 0.0,
+    "report_date": 0.3052,
+    "page_number": 0.0,
+    "fund_name": 0.0078,
+    "vintage_year": 0.9124,
+    "committed_capital": 0.9155,
+    "contributed_capital": 0.9155,
+    "distributed_capital": 0.9155,
+    "nav": 0.1346,
+    "tvpi": 0.9828,
+    "dpi": 1.0,
+    "irr": 0.7825,
+    "currency": 0.0,
+    "raw_row_text": 0.0,
+    "extraction_method": 0.0,
+    "confidence_flag": 0.0,
+    "notes": 0.1142
+  }
+}

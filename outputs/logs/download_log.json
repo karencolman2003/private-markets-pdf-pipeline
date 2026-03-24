@@ -1,0 +1,68 @@
+[
+  {
+    "source_name": "CalPERS Private Equity Program Fund Performance",
+    "category": "fund_performance_page",
+    "url": "https://www.calpers.ca.gov/investments/about-investment-office/investment-organization/pep-fund-performance",
+    "local_path": "/Users/karencolman/Documents/New project 2/data/raw_pdfs/calpers_private_equity_program_fund_performance_page.html",
+    "status": "downloaded",
+    "content_type": "text/html; charset=UTF-8",
+    "http_status": 200,
+    "notes": "Downloaded successfully.",
+    "manual_steps": "Open the page in a browser and look for linked PDF or print/download content related to fund performance."
+  },
+  {
+    "source_name": "CalPERS Private Equity Program Fund Performance Print",
+    "category": "fund_performance_print",
+    "url": "https://www.calpers.ca.gov/investments/about-investment-office/investment-organization/pep-fund-performance-print",
+    "local_path": "/Users/karencolman/Documents/New project 2/data/raw_pdfs/calpers_private_equity_program_fund_performance_print.html",
+    "status": "downloaded",
+    "content_type": "text/html; charset=UTF-8",
+    "http_status": 200,
+    "notes": "Downloaded successfully.",
+    "manual_steps": "Open the print page and save the relevant PDF or print content if direct downloads are blocked."
+  },
+  {
+    "source_name": "CalPERS June 2024 Private Equity Item 05B-01-A",
+    "category": "annual_program_review",
+    "url": "https://www.calpers.ca.gov/documents/202406-invest-item05b-01-a/download",
+    "local_path": "/Users/karencolman/Documents/New project 2/data/raw_pdfs/202406-invest-item05b-01-a.pdf",
+    "status": "downloaded",
+    "content_type": "application/pdf",
+    "http_status": 200,
+    "notes": "Downloaded successfully.",
+    "manual_steps": "If blocked, paste the URL into a browser and use the site download button to save the PDF into data/raw_pdfs/."
+  },
+  {
+    "source_name": "CalPERS June 2025 Private Equity Item 06C-01",
+    "category": "annual_program_review",
+    "url": "https://www.calpers.ca.gov/documents/202506-invest-agenda-item06c-01/download?inline=",
+    "local_path": "/Users/karencolman/Documents/New project 2/data/raw_pdfs/202506-invest-agenda-item06c-01.pdf",
+    "status": "downloaded",
+    "content_type": "application/pdf",
+    "http_status": 200,
+    "notes": "Downloaded successfully.",
+    "manual_steps": "If blocked, open the agenda item in a browser and save the PDF manually into data/raw_pdfs/."
+  },
+  {
+    "source_name": "CalPERS 2023-24 Annual Investment Report",
+    "category": "investment_reporting",
+    "url": "https://www.calpers.ca.gov/documents/annual-investment-report-fy-2024/download?inline",
+    "local_path": "/Users/karencolman/Documents/New project 2/data/raw_pdfs/annual-investment-report-fy-2024.pdf",
+    "status": "downloaded",
+    "content_type": "application/pdf",
+    "http_status": 200,
+    "notes": "Downloaded successfully.",
+    "manual_steps": "If blocked, open the Investment and Financial Reports page and download the 2023-24 Annual Investment Report into data/raw_pdfs/."
+  },
+  {
+    "source_name": "CalPERS Investment and Financial Reports Page",
+    "category": "reports_landing_page",
+    "url": "https://www.calpers.ca.gov/investments/about-investment-office/investment-financial-reports",
+    "local_path": "/Users/karencolman/Documents/New project 2/data/raw_pdfs/calpers_investment_financial_reports_page.html",
+    "status": "downloaded",
+    "content_type": "text/html; charset=UTF-8",
+    "http_status": 200,
+    "notes": "Downloaded successfully.",
+    "manual_steps": "Open the page and identify private-equity-related PDFs to download manually if automation fails."
+  }
+]

@@ -1,0 +1,3558 @@
+{
+  "source_file": "202506-invest-agenda-item06c-01.pdf",
+  "tables": [
+    {
+      "flavor": "lattice",
+      "page": 11,
+      "table_index": 0,
+      "accuracy": 100.0,
+      "whitespace": 0.0,
+      "shape": [
+        3,
+        3
+      ],
+      "records": [
+        {
+          "0": "As of date",
+          "1": "1-year returns",
+          "2": "3-year returns"
+        },
+        {
+          "0": "12/31/22",
+          "1": "Rank: 17th of 30\nQuartile: 3rd",
+          "2": "Rank: 30th of 30\nQuartile: 4th"
+        },
+        {
+          "0": "12/31/24",
+          "1": "Rank: 1st of 30\nQuartile: 1st",
+          "2": "Rank: 2nd of 30\nQuartile: 1st"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_lattice_table_0.csv"
+    },
+    {
+      "flavor": "lattice",
+      "page": 11,
+      "table_index": 1,
+      "accuracy": 100.0,
+      "whitespace": 0.0,
+      "shape": [
+        3,
+        3
+      ],
+      "records": [
+        {
+          "0": "As of date",
+          "1": "1-year returns",
+          "2": "3-year returns"
+        },
+        {
+          "0": "12/31/22",
+          "1": "Rank: 7th of 12\nQuartile: 3rd",
+          "2": "Rank: 12th of 12\nQuartile: 4th"
+        },
+        {
+          "0": "12/31/24",
+          "1": "Rank: 1st of 12\nQuartile: 1st",
+          "2": "Rank: 1st of 12\nQuartile: 1st"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_lattice_table_1.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 1,
+      "table_index": 0,
+      "accuracy": 100.0,
+      "whitespace": 50.0,
+      "shape": [
+        7,
+        2
+      ],
+      "records": [
+        {
+          "0": "Private Equity",
+          "1": ""
+        },
+        {
+          "0": "Annual Program Review",
+          "1": ""
+        },
+        {
+          "0": "As of Quarter Ending December 31, 2024",
+          "1": ""
+        },
+        {
+          "0": "Anton Orlich, Managing Investment Director",
+          "1": ""
+        },
+        {
+          "0": "Private Equity",
+          "1": ""
+        },
+        {
+          "0": "June 16, 2025",
+          "1": ""
+        },
+        {
+          "0": "",
+          "1": "1"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_0.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 2,
+      "table_index": 1,
+      "accuracy": 100.0,
+      "whitespace": 50.0,
+      "shape": [
+        8,
+        2
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Agenda Item 6c, Attachment 1, Page 2 of 16"
+        },
+        {
+          "0": "Private Equity Annual Program Review as of December 31, 2024",
+          "1": ""
+        },
+        {
+          "0": "Contents",
+          "1": ""
+        },
+        {
+          "0": "Program Overview",
+          "1": ""
+        },
+        {
+          "0": "Positioning for the Market Environment",
+          "1": ""
+        },
+        {
+          "0": "Portfolio Performance",
+          "1": ""
+        },
+        {
+          "0": "Key Initiatives",
+          "1": ""
+        },
+        {
+          "0": "",
+          "1": "2"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_1.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 3,
+      "table_index": 2,
+      "accuracy": 95.11,
+      "whitespace": 48.48,
+      "shape": [
+        22,
+        3
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Private Equity Annual Program Review as of December 31, 2024",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "Program Overview",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Enhance equity returns through an active, value-added approach"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Drive returns through appreciation, sometimes with leverage; negligible cash yield"
+        },
+        {
+          "0": "Role",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Harvest the illiquidity premium"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Net asset value (NAV) at $92.1bn as of December 31, 2024"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Buyout at $63.3bn (68.7%), Growth at $21.9bn (23.7%), Opportunistic at $3.9bn (4.3%), Venture"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "at $2.2bn (2.3%), and Credit at $0.9bn (1.0%)"
+        },
+        {
+          "0": "Key Metrics",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "U.S. portfolio at $62.9bn (67.3%), Europe at $20.9bn (22.4%), Emerging Markets at $6.0bn"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "(6.4%), and Developed Asia at $1.2bn (1.3%)"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Approximately 133 managers and 394 funds1"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "A long investment horizon is a responsibility and an advantage (IB 2)"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Long-term  value  creation  requires  effective  management  of  three  forms  of  capital:  financial,"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "physical and human (IB 4)"
+        },
+        {
+          "0": "Investment",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Take risk only where we have a strong belief we will be rewarded for it (IB 7)"
+        },
+        {
+          "0": "Beliefs",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Costs matter and need to be effectively managed (IB 8)"
+        },
+        {
+          "0": "",
+          "1": "\u2022",
+          "2": "Strong processes and teamwork and deep resources are needed to achieve CalPERS goals and"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "objectives (IB 10)"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_2.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 4,
+      "table_index": 3,
+      "accuracy": 96.1,
+      "whitespace": 85.62,
+      "shape": [
+        32,
+        10
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "",
+          "2": "Program Overview",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "\u2022",
+          "9": "Commitments have been consistent with the target of"
+        },
+        {
+          "0": "",
+          "1": "Commitments by Fiscal Year",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "$15.5bn +/-15% per year for the last four fiscal years"
+        },
+        {
+          "0": "",
+          "1": "As of March 31, 2025",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "$ in bn",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "\u2022",
+          "9": "Maintaining a minimum level of commitments is important"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "to avoiding another \u201clost decade\u201d1"
+        },
+        {
+          "0": "$18",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "$16.7",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "$15.6",
+          "5": "",
+          "6": "",
+          "7": "$14.6",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "$15.2",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "$16",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "\u2022",
+          "9": "Under its current strategy, CalPERS PE expressed its"
+        },
+        {
+          "0": "",
+          "1": "Target",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "$14",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "investment view that the 2023-24 vintages were promising"
+        },
+        {
+          "0": "$12",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "by continuing commitments at the level of the 2021 step-"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "$10.1",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "$9.1",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "function increase, which occurred under the prior strategy"
+        },
+        {
+          "0": "$10",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "$7.2",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "$8",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "\u2022",
+          "9": "CalPERS PE\u2019s allocation decision also mitigated the"
+        },
+        {
+          "0": "$6",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "proportion it committed in 2021, which is widely regarded"
+        },
+        {
+          "0": "$4",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "as a challenged vintage and a headwind in the portfolio"
+        },
+        {
+          "0": "$2",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "\u2022\nCommitments to the 2021 vintage (calendar year,"
+        },
+        {
+          "0": "$0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "not fiscal) totaled $19.5bn"
+        },
+        {
+          "0": "",
+          "1": "FY 18-19",
+          "2": "FY 19-20",
+          "3": "FY 20-21",
+          "4": "FY 21-22",
+          "5": "FY 22-23",
+          "6": "FY 23-24",
+          "7": "FYTD as of",
+          "8": "",
+          "9": ""
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_3.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 5,
+      "table_index": 4,
+      "accuracy": 100.0,
+      "whitespace": 59.77,
+      "shape": [
+        29,
+        3
+      ],
+      "records": [
+        {
+          "0": "NAV by Strategy Segments",
+          "1": "",
+          "2": "Fund Commitments by FY and Strategy Segments1"
+        },
+        {
+          "0": "As of December 31, 2024",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "100%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "4%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "9%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "12%"
+        },
+        {
+          "0": "Credit Related",
+          "1": "",
+          "2": "15%"
+        },
+        {
+          "0": "Opportunistic",
+          "1": "",
+          "2": "90%"
+        },
+        {
+          "0": "1.0%",
+          "1": "",
+          "2": "20%"
+        },
+        {
+          "0": "4.3%",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "Venture Capital",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "80%"
+        },
+        {
+          "0": "2.3%",
+          "1": "",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "36%\n31%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "70%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "37%\n21%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "60%"
+        },
+        {
+          "0": "",
+          "1": "Large/Mega",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "Buyout",
+          "2": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "50%"
+        },
+        {
+          "0": "Growth/Expansion",
+          "1": "39.7%",
+          "2": ""
+        },
+        {
+          "0": "23.7%",
+          "1": "",
+          "2": "33%\n40%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "19%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "30%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "56%\n55%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "20%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "29%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "25%"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "10%"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_4.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 5,
+      "table_index": 5,
+      "accuracy": 89.27,
+      "whitespace": 22.22,
+      "shape": [
+        9,
+        2
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Large/Mega Buyout\nMiddle Market Buyout\nGrowth\nVenture\nBuyout"
+        },
+        {
+          "0": "",
+          "1": "28.9%"
+        },
+        {
+          "0": "Large Buyout dominated fund commitments until the middle of FY 2022-23, when CalPERS began enhancing the portfolio with strategy diversification",
+          "1": ""
+        },
+        {
+          "0": "In Nov. 2022, CalPERS began executing a new PE strategy that immediately achieved run-rate diversification across the strategy segments of PE",
+          "1": ""
+        },
+        {
+          "0": "\u2022",
+          "1": "Buyout commitments went from 91% in FY 2020-21 to 58% in FY 2023-24"
+        },
+        {
+          "0": "\u2022",
+          "1": "Within Buyout, Large/Mega commitments went from a majority (73%) in FY 2021-22 to a minority (43%) in FY 2023-24"
+        },
+        {
+          "0": "\u2022",
+          "1": "CalPERS merged the Growth & Innovation platform into PE to address PE\u2019s longtime underinvestment in Growth and Venture"
+        },
+        {
+          "0": "\u2022",
+          "1": "Growth and Venture went from 9% of commitments in FY 2020-21 to 43% in FY 2023-24"
+        },
+        {
+          "0": "\u2022",
+          "1": "After over a decade hiatus, CalPERS re-entered Venture; despite Venture\u2019s J-curve dynamics, CalPERS is scaling Venture well with a 14.7% 1-year TWR"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_5.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 6,
+      "table_index": 6,
+      "accuracy": 97.83,
+      "whitespace": 73.61,
+      "shape": [
+        12,
+        6
+      ],
+      "records": [
+        {
+          "0": "As of December 31, 2024",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "Developed",
+          "2": "Global, 0.5%",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Canada, 1.8%",
+          "1": "Asia, 1.3%",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "Other, 0.4%",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Emerging Markets,",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "\u2022",
+          "5": "Program intention is to remain US-centric"
+        },
+        {
+          "0": "6.4%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "\u2022",
+          "5": "PE will opportunistically internationalize at the margins"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "\u2022",
+          "5": "US accounted for 74% of NAV at 3/31/23, and the US-"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Europe, 22.4%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "portion of the PE portfolio has decreased to 67% as of"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "United States,",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "67.3%",
+          "4": "",
+          "5": "12/31/24"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_6.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 7,
+      "table_index": 7,
+      "accuracy": 79.69,
+      "whitespace": 47.83,
+      "shape": [
+        23,
+        2
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Agenda Item 6c, Attachment 1, Page 7 of 16"
+        },
+        {
+          "0": "Private Equity Annual Program Review as of December 31, 2024",
+          "1": ""
+        },
+        {
+          "0": "",
+          "1": "Program Overview"
+        },
+        {
+          "0": "",
+          "1": "Capital Contributions and Distributions"
+        },
+        {
+          "0": "As of December 31, 2024",
+          "1": ""
+        },
+        {
+          "0": "$ in mm",
+          "1": ""
+        },
+        {
+          "0": "15,000",
+          "1": ""
+        },
+        {
+          "0": "10,000",
+          "1": ""
+        },
+        {
+          "0": "",
+          "1": "5,000"
+        },
+        {
+          "0": "",
+          "1": "-"
+        },
+        {
+          "0": "(5,000)",
+          "1": ""
+        },
+        {
+          "0": "(10,000)",
+          "1": ""
+        },
+        {
+          "0": "(15,000)",
+          "1": ""
+        },
+        {
+          "0": "(20,000)",
+          "1": ""
+        },
+        {
+          "0": "(25,000)",
+          "1": ""
+        },
+        {
+          "0": "",
+          "1": "2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024"
+        },
+        {
+          "0": "",
+          "1": "Capital Contributed\nTotal Distributions"
+        },
+        {
+          "0": "\u2022",
+          "1": "CalPERS PE has been cash flow negative as it scales to meet higher asset allocation targets and executes the current PE strategy"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nIn 2021, CalPERS approved increasing the PE target from 8% to 13%"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nIn 2024, CalPERS approved an increase from 13% to 17%, avoiding repeating its past mistakes of procyclicality"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nEmphasis on secondaries and co-invest has accelerated (1) NAV scaling and (2) the impact of decisions by CalPERS PE on returns"
+        },
+        {
+          "0": "",
+          "1": "Source: PEARS as of December 31, 2023"
+        },
+        {
+          "0": "",
+          "1": "7"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_7.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 8,
+      "table_index": 8,
+      "accuracy": 95.62,
+      "whitespace": 15.0,
+      "shape": [
+        10,
+        2
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Positioning for the Market Environment"
+        },
+        {
+          "0": "Themes Since Nov. 2022:",
+          "1": ""
+        },
+        {
+          "0": "\u2022",
+          "1": "Commit consistently by vintage year to avoid another lost decade for CalPERS PE from under-allocation and procyclicality"
+        },
+        {
+          "0": "\u2022",
+          "1": "Invest in diverse and emerging managers to improve returns"
+        },
+        {
+          "0": "\u2022",
+          "1": "Engage with investment partners to prioritize sustainable investment frameworks, such as Climate and Labor Principles"
+        },
+        {
+          "0": "\u2022",
+          "1": "Diversify the portfolio with Venture and Growth strategies to reduce Buyout exposure proportionally"
+        },
+        {
+          "0": "\u2022",
+          "1": "Recompose the Buyout portfolio from Mega/Large to Middle Market"
+        },
+        {
+          "0": "\u2022",
+          "1": "Make manager selection the centerpiece of the investment process"
+        },
+        {
+          "0": "\u2022",
+          "1": "Pursue structural alpha opportunities:"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nReduce costs by increasing co-investment without management fees or carry to enhance net returns"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_8.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 8,
+      "table_index": 9,
+      "accuracy": 79.31,
+      "whitespace": 18.75,
+      "shape": [
+        8,
+        2
+      ],
+      "records": [
+        {
+          "0": "Recompose the Buyout portfolio from Mega/Large to Middle Market",
+          "1": ""
+        },
+        {
+          "0": "Make manager selection the centerpiece of the investment process",
+          "1": ""
+        },
+        {
+          "0": "Pursue structural alpha opportunities:",
+          "1": ""
+        },
+        {
+          "0": "\u2022",
+          "1": "Reduce costs by increasing co-investment without management fees or carry to enhance net returns"
+        },
+        {
+          "0": "\u2022",
+          "1": "Employ secondaries as a buyer and seller to optimize the portfolio"
+        },
+        {
+          "0": "\u2022",
+          "1": "Establish separately managed accounts for bespoke opportunities with general partners"
+        },
+        {
+          "0": "\u2022",
+          "1": "Avoid the deployment delay after limited partner decision-making that characterizes traditional Private Equity fund investing"
+        },
+        {
+          "0": "\u2022",
+          "1": "Reduce the ratio of unfunded to NAV to enhance liquidity and positioning to be opportunistic"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_9.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 9,
+      "table_index": 10,
+      "accuracy": 91.54,
+      "whitespace": 88.56,
+      "shape": [
+        39,
+        13
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "",
+          "2": "Portfolio Performance | Public Equity & Universe TWR Benchmarks",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "Time-weighted Rate of Return (TWR) as of March 31, 2025",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "\u2022",
+          "12": "CalPERS PE is outperforming the time-"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "weighted version of the SSPEI in the 1-"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "and 3-year periods"
+        },
+        {
+          "0": "20.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "18.8%",
+          "11": "\u2022",
+          "12": "The CalPERS Private Equity portfolio is"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "outperforming the Policy Benchmark"
+        },
+        {
+          "0": "18.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "(Public Equity with an illiquidity"
+        },
+        {
+          "0": "16.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "premium) for the 5-year period"
+        },
+        {
+          "0": "14.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "13.2%",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "12.7%",
+          "3": "",
+          "4": "12.8%",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "11.8%",
+          "4": "",
+          "5": "",
+          "6": "11.9%",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "12.0%",
+          "1": "11.3%",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "11.3%",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "\u2022",
+          "12": "A surge in the 1-year policy benchmark"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "has not yet been reflected in PE"
+        },
+        {
+          "0": "10.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "valuations, which lag public markets;"
+        },
+        {
+          "0": "8.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "7.0%",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "6.8%",
+          "11": "",
+          "12": "public-private comparisons should be"
+        },
+        {
+          "0": "6.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "5.3%",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "made over longer time periods"
+        },
+        {
+          "0": "4.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "2.6%",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "\u2022",
+          "12": "CalPERS PE\u2019s improved performance"
+        },
+        {
+          "0": "2.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "versus PE indexes and peers, resulting"
+        },
+        {
+          "0": "0.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "from the current strategy"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "10 Year",
+          "3": "",
+          "4": "",
+          "5": "5 Year",
+          "6": "",
+          "7": "3 Year",
+          "8": "",
+          "9": "",
+          "10": "1 Year",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "implementation, is likely a leading"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "indicator that CalPERS PE returns will"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "Private Equity",
+          "3": "",
+          "4": "State Street Private Equity Index (SSPEI)",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "Private Equity Policy Benchmark",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "improve relative to the policy"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "benchmark over the next several years."
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "The next two performance slides cover"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "PE index and peer benchmarking"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "Source: State Street as of March 31, 2025. The CalPERS PE policy benchmark: Custom FTSE All World, All Cap Equity + 150 bps with a quarter lag",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_10.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 10,
+      "table_index": 11,
+      "accuracy": 94.59,
+      "whitespace": 78.8,
+      "shape": [
+        23,
+        8
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "\u2022",
+          "7": "As of 9/30/22, all time horizons exhibited"
+        },
+        {
+          "0": "",
+          "1": "Internal Rate of Return (IRR) Differences Between CalPERS PE and State Street PE Index (SSPEI)",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "underperformance, resulting from:"
+        },
+        {
+          "0": "Prior to the Implementation of the Current Strategy: As of September 30, 2022",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "\u2022\nInconsistent and procyclical allocation"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "18.8%",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "\u2022\nFavoring Large over Middle Buyout"
+        },
+        {
+          "0": "20.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "16.2%",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "14.6%",
+          "2": "",
+          "3": "14.5%",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "\u2022\nUnder-allocation to Growth and Venture"
+        },
+        {
+          "0": "13.3%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "15.0%",
+          "1": "12.3%",
+          "2": "11.9%",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "11.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "\u2022\nBelow-average manager selection"
+        },
+        {
+          "0": "10.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "\u2022\nMissing longstanding co-invest goals"
+        },
+        {
+          "0": "5.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "\u2022\nCo-invest deals underperforming funds"
+        },
+        {
+          "0": "0.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "Since Inception",
+          "1": "10 Year",
+          "2": "5 Year",
+          "3": "3 Year",
+          "4": "",
+          "5": "1 Year",
+          "6": "\u2022",
+          "7": "Made possible by CalPERS leadership and"
+        },
+        {
+          "0": "-5.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "-1.6%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "-3.9%",
+          "5": "",
+          "6": "",
+          "7": "launched in Q4 2022, the current PE strategy"
+        },
+        {
+          "0": "-10.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "CalPERS PE",
+          "2": "State Street PE Index",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "has erased in two years the -430 bps deficit to"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_11.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 10,
+      "table_index": 12,
+      "accuracy": 92.36,
+      "whitespace": 81.18,
+      "shape": [
+        17,
+        10
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Impact after Two Full Years of the Current Strategy: As of December 31, 2024",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "\u2022",
+          "9": "Driven by the 2023 and 2024 vintages,"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "CalPERS outperformed the SSPEI in the 1- and"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "3-year periods as of 12/31/24"
+        },
+        {
+          "0": "20.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "\u2022",
+          "9": "1- and 3-year performance drivers:"
+        },
+        {
+          "0": "15.0%",
+          "1": "",
+          "2": "12.7%",
+          "3": "",
+          "4": "12.4%",
+          "5": "13.0%",
+          "6": "13.0%",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "12.2%",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "11.1%",
+          "2": "",
+          "3": "11.0%",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "\u2022\nMaintaining consistent commitments"
+        },
+        {
+          "0": "10.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "7.1%",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "6.6%",
+          "7": "",
+          "8": "",
+          "9": "\u2022\nReducing traditional PE\u2019s deployment lag"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "3.1%",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "5.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "\u2022\nDiversifying away from Large Buyout"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "\u2022\nImproving manager selection"
+        },
+        {
+          "0": "0.0%",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": ""
+        },
+        {
+          "0": "",
+          "1": "Since Inception",
+          "2": "",
+          "3": "",
+          "4": "10-Year",
+          "5": "5-Year",
+          "6": "3-Year",
+          "7": "1-Year",
+          "8": "",
+          "9": "\u2022\nAchieving co-invest goal"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_12.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 11,
+      "table_index": 13,
+      "accuracy": 97.87,
+      "whitespace": 64.54,
+      "shape": [
+        49,
+        8
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "",
+          "2": "Time-weighted Return Versus Two Peer Groups",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "30 Largest US Public PE Programs by NAV",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "PE Program",
+          "4": "NAV ($bn)",
+          "5": "1-yr Return",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "CalPERS PE Performance"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "30 Largest US Public PE Programs",
+          "2": "",
+          "3": "1 CalPERS",
+          "4": "89.0",
+          "5": "11.9%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "2 CalSTRS",
+          "4": "53.9",
+          "5": "8.9%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "As of date",
+          "1": "1-year returns",
+          "2": "3-year returns",
+          "3": "3 Washington State Investment Board",
+          "4": "49.5",
+          "5": "9.6%",
+          "6": "\u2022",
+          "7": "Best-performing program for calendar"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "4 Texas Teachers",
+          "4": "32.6",
+          "5": "7.2%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "5 Oregon Public Employees",
+          "4": "25.2",
+          "5": "4.1%",
+          "6": "",
+          "7": "year 2024 (from 17th out of 30 in 2022)"
+        },
+        {
+          "0": "",
+          "1": "Rank: 17th of 30",
+          "2": "Rank: 30th of 30",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "12/31/22",
+          "1": "",
+          "2": "",
+          "3": "6 State of Michigan Retirement Systems",
+          "4": "23.8",
+          "5": "8.0%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "Quartile: 3rd",
+          "2": "Quartile: 4th",
+          "3": "7 Virginia Retirement System",
+          "4": "19.0",
+          "5": "6.3%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "8 Florida State Board of Administration",
+          "4": "18.6",
+          "5": "8.1%",
+          "6": "\u2022",
+          "7": "1st decile for the 3-year return (from"
+        },
+        {
+          "0": "",
+          "1": "Rank: 1st of 30",
+          "2": "Rank: 2nd of 30",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "9 Massachusetts Pension Reserves",
+          "4": "18.2",
+          "5": "7.8%",
+          "6": "",
+          "7": "30th out of 30 in 2022)"
+        },
+        {
+          "0": "12/31/24",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "Quartile: 1st",
+          "2": "Quartile: 1st",
+          "3": "10 Minnesota State Board",
+          "4": "16.7",
+          "5": "9.5%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "11 Ohio Public Employees",
+          "4": "15.4",
+          "5": "9.3%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "12 Maryland Retirement and Pension System",
+          "4": "14.9",
+          "5": "7.0%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "13 New York State Teachers",
+          "4": "14.3",
+          "5": "6.4%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "14 Texas County & District Retirement System",
+          "4": "13.3",
+          "5": "6.1%",
+          "6": "",
+          "7": "CalPERS PE Scale*"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "15 Los Angeles County Employees (LACERA)",
+          "4": "13.2",
+          "5": "2.9%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "California Public Peers",
+          "2": "",
+          "3": "16 University of California Pension",
+          "4": "12.5",
+          "5": "10.2%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "17 Pennsylvania Public Schools Employees",
+          "4": "11.5",
+          "5": "5.2%",
+          "6": "\u2022",
+          "7": "~1.7x larger than the second-largest"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "18 Alaska Permanent PE",
+          "4": "10.8",
+          "5": "6.7%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "As of date",
+          "1": "1-year returns",
+          "2": "3-year returns",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "PE program ($89bn vs $54bn)"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "19 Missouri Public Schools",
+          "4": "10.2",
+          "5": "5.8%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "20 San Francisco Employees (SFERS)",
+          "4": "10.0",
+          "5": "3.6%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "Rank: 7th of 12",
+          "2": "Rank: 12th of 12",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "12/31/22",
+          "1": "",
+          "2": "",
+          "3": "21 New York City Employees (NYCERS)",
+          "4": "9.6",
+          "5": "6.4%",
+          "6": "\u2022",
+          "7": "~15x larger than the 30th-largest PE"
+        },
+        {
+          "0": "",
+          "1": "Quartile: 3rd",
+          "2": "Quartile: 4th",
+          "3": "22 New York City Teachers",
+          "4": "9.3",
+          "5": "5.8%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "23 United Nations Pension",
+          "4": "8.1",
+          "5": "5.3%",
+          "6": "",
+          "7": "program ($89bn vs $6bn)"
+        },
+        {
+          "0": "",
+          "1": "Rank: 1st of 12",
+          "2": "Rank: 1st of 12",
+          "3": "24 Iowa Public Employees",
+          "4": "7.9",
+          "5": "6.5%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "12/31/24",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "Quartile: 1st",
+          "2": "Quartile: 1st",
+          "3": "25 New Jersey Division of Pensions",
+          "4": "7.7",
+          "5": "3.8%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "26 Connecticut Employees",
+          "4": "6.9",
+          "5": "8.1%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "27 Pennsylvania State Employees (PSERS)",
+          "4": "6.7",
+          "5": "6.3%",
+          "6": "",
+          "7": "* Size is widely regarded as a headwind to"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "28 South Carolina",
+          "4": "6.1",
+          "5": "7.7%",
+          "6": "returns",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "29 North Carolina Retirement Systems (NCRS)",
+          "4": "6.1",
+          "5": "3.2%",
+          "6": "",
+          "7": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "30 New York City Police",
+          "4": "6.0",
+          "5": "6.2%",
+          "6": "",
+          "7": ""
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_13.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 11,
+      "table_index": 14,
+      "accuracy": 82.06,
+      "whitespace": 50.0,
+      "shape": [
+        10,
+        4
+      ],
+      "records": [
+        {
+          "0": "27 Pennsylvania State Employees (PSERS)",
+          "1": "6.7",
+          "2": "6.3%",
+          "3": "* Size is widely regarded as a headwind to"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "28 South Carolina",
+          "1": "6.1",
+          "2": "7.7%",
+          "3": "returns"
+        },
+        {
+          "0": "29 North Carolina Retirement Systems (NCRS)",
+          "1": "6.1",
+          "2": "3.2%",
+          "3": ""
+        },
+        {
+          "0": "30 New York City Police",
+          "1": "6.0",
+          "2": "6.2%",
+          "3": ""
+        },
+        {
+          "0": "Source: Peer datasets based on 12/31/24 time-weighted returns (TWR) and Net Asset Value (NAV) publicly reported by each institution and collected by Nasdaq eVestment as of 5/4/25",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "Note: Of the Top 30 in PE NAV size as of 12/31/24, three did not report PE results for 12/31/22 (Iowa Public Employees, New York City Police, and Virginia Retirement System).  To address this,",
+          "1": "",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "",
+          "1": "the Top 30 PE programs that reported as of 12/31/22 were used as substitutes, adding Alaska Retirement, Illinois Municipal Retirement Fund, and Nevada Public Employees to the peer set.",
+          "2": "",
+          "3": "11"
+        },
+        {
+          "0": "",
+          "1": "California peer set constituents have at least $1bn in PE NAV with the same institutions reporting as of 12/31/22 and 12/31/24: CalPERS, CalSTRS, LACERA, University of California Pension,",
+          "2": "",
+          "3": ""
+        },
+        {
+          "0": "",
+          "1": "SFERS, University of California Endowment, San Bernardino County, Sacramento County, Ventura County, Contra Costa County, San Diego City, and Alameda County (in order of NAV)",
+          "2": "",
+          "3": ""
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_14.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 12,
+      "table_index": 15,
+      "accuracy": 94.46,
+      "whitespace": 70.83,
+      "shape": [
+        16,
+        6
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Portfolio Performance | Current versus Prior Strategy",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "Breakout of Total CalPERS PE Portfolio between the Current and Prior Strategies",
+          "2": "",
+          "3": "",
+          "4": "\u2022",
+          "5": "The prior two performance slides show the"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "current strategy\u2019s impact on the total PE portfolio"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "(i.e., the blend of the current and prior"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "strategies).  This slide distills returns between"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "TVPI (Non-",
+          "3": "Weighted Avg. Hold",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Strategy",
+          "1": "Cost ($bn)",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "the two strategies"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "annualized)",
+          "3": "(Years)",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "\u2022",
+          "5": "Launched in Nov. 2022, the current strategy is"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Current Strategy (~2023-24)",
+          "1": "$29",
+          "2": "1.24x",
+          "3": "0.97",
+          "4": "",
+          "5": "driving the improved performance in the total PE"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "portfolio, the supermajority of which are assets"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": ""
+        },
+        {
+          "0": "Prior Strategy (~Pre-2023)",
+          "1": "$109",
+          "2": "1.78x",
+          "3": "6.01",
+          "4": "",
+          "5": "invested under the prior strategy"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "\u2022\nCurrent strategy\u2019s annualized TVPI is"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_15.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 13,
+      "table_index": 16,
+      "accuracy": 97.66,
+      "whitespace": 68.42,
+      "shape": [
+        19,
+        5
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "Key Initiatives | Cost-effective Implementation",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "Assumptions",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "\u2022",
+          "4": "Co-investment provides significant cost"
+        },
+        {
+          "0": "Committed",
+          "1": "",
+          "2": "$1,000,000,000",
+          "3": "",
+          "4": "savings and helps limited partners capture"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "more of Private Equity\u2019s returns"
+        },
+        {
+          "0": "Gross multiple",
+          "1": "",
+          "2": "2.5x",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "\u2022",
+          "4": "Each $1bn in co-invest is expected to save"
+        },
+        {
+          "0": "Management fee",
+          "1": "",
+          "2": "1.25%",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "about $400mm in management fees and"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "carry over the life of PE investments under"
+        },
+        {
+          "0": "Carry",
+          "1": "",
+          "2": "20%",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "realistic assumptions"
+        },
+        {
+          "0": "Fund life",
+          "1": "",
+          "2": "10",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "\u2022",
+          "4": "Based on CalPERS annual deployment"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "budget of $15.5bn and a co-invest ratio of"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "40%, fee savings would be approximately"
+        },
+        {
+          "0": "",
+          "1": "Savings versus fund economics",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "$2.5bn over a 10-year period for each year"
+        },
+        {
+          "0": "Management fee",
+          "1": "",
+          "2": "$125,000,000",
+          "3": "",
+          "4": "of commitments"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_16.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 14,
+      "table_index": 17,
+      "accuracy": 97.11,
+      "whitespace": 38.89,
+      "shape": [
+        18,
+        2
+      ],
+      "records": [
+        {
+          "0": "Highlights of CalPERS PE\u2019s Efforts over the Last Year to Enhance Returns through Building a More Sustainable Portfolio:",
+          "1": ""
+        },
+        {
+          "0": "\u2022",
+          "1": "Labor Principles"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nCoordinated with Sustainable Investments to adopt the Labor Principles and a stakeholder engagement process"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nWorking with PE investment partners to obtain their attestations to operate in broad alignment with the Labor Principles"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nScaling back or ending commitments to PE funds that have not been aligning with CalPERS values on human capital"
+        },
+        {
+          "0": "\u2022",
+          "1": "Diversity"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nShifting focus to smaller funds in Buyout, expanding Growth, and adding Venture to increase and diversify the opportunity set"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nIn FY 2023-24, committed over $6bn to diverse managers in the non-intermediated portfolio (i.e., not including TPG Next &"
+        },
+        {
+          "0": "",
+          "1": "GCM Elevate)"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nCo-hosted the second edition of the Catalyst: California\u2019s Emerging and Diverse Investment Manager Forum in May 2025"
+        },
+        {
+          "0": "\u2022",
+          "1": "Diligence"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nIncorporated Governance and Sustainability questions into the CalPERS Due Diligence Questionnaire"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nCoordinating with Sustainable Investments as it further integrates Governance and Sustainability into Private Markets diligence"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nEncouraging expanded industry participation in the ESG Data Convergence Initiative (EDCI), which CalPERS co-founded"
+        },
+        {
+          "0": "\u2022",
+          "1": "Climate"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nWorking with Sustainable Investments to develop an actionable pipeline contributing to the $100bn 2030 goal"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nMade primary commitments to several specialized Climate funds and continuing to source fund investment opportunities"
+        },
+        {
+          "0": "",
+          "1": "\u2022\nFunded about $1.4bn of PE co-investments supporting Climate solutions and continuing to source co-invest opportunities"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_17.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 15,
+      "table_index": 18,
+      "accuracy": 96.48,
+      "whitespace": 75.15,
+      "shape": [
+        33,
+        5
+      ],
+      "records": [
+        {
+          "0": "",
+          "1": "",
+          "2": "Key Initiatives | Integration of Governance and Sustainability",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "\u2022",
+          "4": "Since the last PE Annual Program Review, CalPERS co-hosted"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "Emerging and Diverse Managers",
+          "2": "",
+          "3": "",
+          "4": "with CalSTRS the second edition of the Catalyst: California\u2019s"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "Emerging and Diverse Investment Manager Forum, bringing"
+        },
+        {
+          "0": "In billions ($)",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "together institutional investors and other global allocators to"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "engage with diverse entrepreneurs and entrepreneurial general"
+        },
+        {
+          "0": "$7.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "partners to forge a new path in leadership and growth"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "$6.3",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "$6.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "\u2022",
+          "4": "Under its current strategy, CalPERS PE is pursuing alpha through"
+        },
+        {
+          "0": "$5.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "better manager selection.  As part of that effort, PE has increased"
+        },
+        {
+          "0": "",
+          "1": "$4.1",
+          "2": "",
+          "3": "",
+          "4": "its commitments to emerging and diverse managers in its non-"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "$4.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "intermediated portfolio (i.e., CalPERS PE\u2019s direct portfolio, which"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "excludes TPG Next and GCM Elevate, both of which select"
+        },
+        {
+          "0": "$3.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "managers on behalf of CalPERS under the oversight of"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "$2.0",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "Sustainable Investments).  PE\u2019s emerging and diverse manager"
+        },
+        {
+          "0": "$2.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "$1.4",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "commitments are reported to the California legislature in"
+        },
+        {
+          "0": "$1.0",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "compliance with California law"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "$-",
+          "1": "",
+          "2": "",
+          "3": "\u2022",
+          "4": "The $1bn partnership with external emerging manager advisors"
+        },
+        {
+          "0": "",
+          "1": "FY 22-23",
+          "2": "FY 23-24",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "TPG Next and GCM Grosvenor is designed to invest over"
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "multiple years, is focused on Private Market investments, and is"
+        },
+        {
+          "0": "",
+          "1": "Diverse Managers",
+          "2": "Emerging Managers",
+          "3": "",
+          "4": ""
+        },
+        {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "overseen by Sustainable Investments"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_18.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 16,
+      "table_index": 19,
+      "accuracy": 93.14,
+      "whitespace": 30.0,
+      "shape": [
+        10,
+        2
+      ],
+      "records": [
+        {
+          "0": "ESG Data Convergence Initiative (EDCI)",
+          "1": ""
+        },
+        {
+          "0": "\u2022",
+          "1": "EDCI is a global partnership of private markets stakeholders committed to streamlining the industry\u2019s historically"
+        },
+        {
+          "0": "",
+          "1": "fragmented approach to collecting and reporting ESG data.  The mission is to create a critical mass of meaningful,"
+        },
+        {
+          "0": "",
+          "1": "performance-based, and comparable private company sustainability data"
+        },
+        {
+          "0": "\u2022",
+          "1": "CalPERS Private Equity co-founded EDCI in 2021 and serves on the steering committee"
+        },
+        {
+          "0": "\u2022",
+          "1": "EDCI launched with 7 GPs and 9 LPs/IMs representing about $4 trillion in assets under management (AUM) and"
+        },
+        {
+          "0": "",
+          "1": "now has over 350 GPs and 150 LPs/IMs representing about $38 trillion of AUM"
+        },
+        {
+          "0": "\u2022",
+          "1": "As part of its current strategy launched in Q4 2022, CalPERS PE has worked to increase engagement with EDCI,"
+        },
+        {
+          "0": "",
+          "1": "as well as the participation of its active Buyout managers in EDCI"
+        },
+        {
+          "0": "",
+          "1": "The number of GPs participating went from 20 to 42, increasing the engagement rate from 49% to 68%"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_19.csv"
+    },
+    {
+      "flavor": "stream",
+      "page": 16,
+      "table_index": 20,
+      "accuracy": 100.0,
+      "whitespace": 0.0,
+      "shape": [
+        11,
+        1
+      ],
+      "records": [
+        {
+          "0": "now has over 350 GPs and 150 LPs/IMs representing about $38 trillion of AUM"
+        },
+        {
+          "0": "As part of its current strategy launched in Q4 2022, CalPERS PE has worked to increase engagement with EDCI,"
+        },
+        {
+          "0": "as well as the participation of its active Buyout managers in EDCI"
+        },
+        {
+          "0": "The number of GPs participating went from 20 to 42, increasing the engagement rate from 49% to 68%"
+        },
+        {
+          "0": "o"
+        },
+        {
+          "0": "The proportion of NAV with EDCI-participating GPs went from 50% to 75%"
+        },
+        {
+          "0": "o"
+        },
+        {
+          "0": "EDCI participation increased even as the current PE strategy added new managers to the portfolio outside"
+        },
+        {
+          "0": "o"
+        },
+        {
+          "0": "Large Buyout.  Many of these Middle Market managers had not been participating in EDCI before partnering"
+        },
+        {
+          "0": "with CalPERS"
+        }
+      ],
+      "csv_path": "/Users/karencolman/Documents/New project 2/data/extracted/202506-invest-agenda-item06c-01_stream_table_20.csv"
+    }
+  ]
+}

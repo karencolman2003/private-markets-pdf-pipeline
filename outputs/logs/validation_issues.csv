@@ -1,0 +1,18 @@
+row_id,severity,message
+202406-invest-item05b-01-a.pdf::p7::18,review,IRR outside sanity range
+202406-invest-item05b-01-a.pdf::p7::19,review,IRR outside sanity range
+202406-invest-item05b-01-a.pdf::p10::23,review,tvpi unusually high
+202406-invest-item05b-01-a.pdf::p11::27,review,tvpi unusually high
+202406-invest-item05b-01-a.pdf::p3::33,review,Missing fund name
+202406-invest-item05b-01-a.pdf::p4::34,review,Missing fund name
+202406-invest-item05b-01-a.pdf::p4::35,review,Missing fund name
+202506-invest-agenda-item06c-01.pdf::p7::79,review,IRR outside sanity range
+202506-invest-agenda-item06c-01.pdf::p7::80,review,IRR outside sanity range
+202506-invest-agenda-item06c-01.pdf::p11::100,review,tvpi unusually high
+202506-invest-agenda-item06c-01.pdf::p13::131,review,tvpi unusually high
+202506-invest-agenda-item06c-01.pdf::p16::135,review,IRR outside sanity range
+202506-invest-agenda-item06c-01.pdf::p16::138,review,IRR outside sanity range
+202506-invest-agenda-item06c-01.pdf::p16::139,review,IRR outside sanity range
+202506-invest-agenda-item06c-01.pdf::p4::144,review,Missing fund name
+202506-invest-agenda-item06c-01.pdf::p4::145,review,Missing fund name
+202506-invest-agenda-item06c-01.pdf::p11::199,review,tvpi unusually high
