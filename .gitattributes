@@ -1,1 +1,3 @@
+*.html linguist-detectable=false
+outputs/figures/* linguist-detectable=false
 outputs/figures/*.html linguist-detectable=false

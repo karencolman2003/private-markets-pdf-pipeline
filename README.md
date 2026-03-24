@@ -11,6 +11,8 @@ The goal here is not to pretend that every PDF can be universally parsed. The go
 - validates suspicious rows instead of silently trusting them
 - produces dashboard-ready outputs and portfolio-ready artifacts
 
+![Records by Source](outputs/figures/records_by_source.png)
+
 ## Why this project matters
 
 Private markets still have a document-ops bottleneck.
@@ -75,11 +77,11 @@ Headline result:
 
 Source-level quality snapshot:
 
-| Source | Records | Unique fund names | High-confidence rows | Flagged review rows | Notes |
+| Source file | Record count | Unique fund names | High-confidence rows | Flagged review rows | Current interpretation |
 | --- | ---: | ---: | ---: | ---: | --- |
-| `annual-investment-report-fy-2024.pdf` | 418 | 418 | 418 | 0 | Cleanest fund-level extraction |
-| `202506-invest-agenda-item06c-01.pdf` | 162 | 139 | 0 | 10 | Mostly aggregate program-review rows |
-| `202406-invest-item05b-01-a.pdf` | 59 | 49 | 0 | 7 | Mostly aggregate program-review rows |
+| `annual-investment-report-fy-2024.pdf` | 418 | 418 | 418 | 0 | Cleanest fund-level extraction; stable holdings layout |
+| `202506-invest-agenda-item06c-01.pdf` | 162 | 139 | 0 | 10 | Useful but still mostly aggregate program-review extraction |
+| `202406-invest-item05b-01-a.pdf` | 59 | 49 | 0 | 7 | Useful but still mostly aggregate program-review extraction |
 
 Detailed populated-field rates by source are in [`outputs/samples/source_quality_audit.csv`](outputs/samples/source_quality_audit.csv).
 
