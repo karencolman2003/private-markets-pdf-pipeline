@@ -1,3 +1,6 @@
 *.html linguist-detectable=false
 outputs/figures/* linguist-detectable=false
 outputs/figures/*.html linguist-detectable=false
+data/raw_pdfs/*.html linguist-detectable=false
+data/raw_pdfs/*.html linguist-generated=true
+outputs/figures/*.html linguist-generated=true
