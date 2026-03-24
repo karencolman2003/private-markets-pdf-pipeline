@@ -38,7 +38,7 @@ That is the point of this repo. It is not just a dashboard project. It is a reco
 
 ## Data sources used
 
-Starter CalPERS dataset in [`data/raw_pdfs/`](/Users/karencolman/Documents/New%20project%202/data/raw_pdfs):
+Starter CalPERS dataset in [`data/raw_pdfs/`](data/raw_pdfs/):
 
 - `202406-invest-item05b-01-a.pdf`
   CalPERS Private Equity Annual Program Review as of March 31, 2024
@@ -53,17 +53,17 @@ Supporting discovery pages saved as HTML:
 - `calpers_private_equity_program_fund_performance_print.html`
 - `calpers_investment_financial_reports_page.html`
 
-See [`docs/source_inventory.md`](/Users/karencolman/Documents/New%20project%202/docs/source_inventory.md) for the exact URLs and local file mapping.
+See [`docs/source_inventory.md`](docs/source_inventory.md) for the exact URLs and local file mapping.
 
 ## Real outputs from the current run
 
 Current generated outputs:
 
-- 639 normalized records in [`data/normalized/fund_records_validated.csv`](/Users/karencolman/Documents/New%20project%202/data/normalized/fund_records_validated.csv)
-- 639 dashboard records in [`data/normalized/dashboard_records.csv`](/Users/karencolman/Documents/New%20project%202/data/normalized/dashboard_records.csv)
-- 17 validation issues in [`outputs/logs/validation_issues.csv`](/Users/karencolman/Documents/New%20project%202/outputs/logs/validation_issues.csv)
-- source quality audit in [`outputs/samples/source_quality_audit.md`](/Users/karencolman/Documents/New%20project%202/outputs/samples/source_quality_audit.md)
-- high-confidence sample rows in [`outputs/samples/high_confidence_sample.csv`](/Users/karencolman/Documents/New%20project%202/outputs/samples/high_confidence_sample.csv)
+- 639 normalized records in [`data/normalized/fund_records_validated.csv`](data/normalized/fund_records_validated.csv)
+- 639 dashboard records in [`data/normalized/dashboard_records.csv`](data/normalized/dashboard_records.csv)
+- 17 validation issues in [`outputs/logs/validation_issues.csv`](outputs/logs/validation_issues.csv)
+- source quality audit in [`outputs/samples/source_quality_audit.md`](outputs/samples/source_quality_audit.md)
+- high-confidence sample rows in [`outputs/samples/high_confidence_sample.csv`](outputs/samples/high_confidence_sample.csv)
 
 Headline result:
 
@@ -81,7 +81,7 @@ Source-level quality snapshot:
 | `202506-invest-agenda-item06c-01.pdf` | 162 | 139 | 0 | 10 | Mostly aggregate program-review rows |
 | `202406-invest-item05b-01-a.pdf` | 59 | 49 | 0 | 7 | Mostly aggregate program-review rows |
 
-Detailed populated-field rates by source are in [`outputs/samples/source_quality_audit.csv`](/Users/karencolman/Documents/New%20project%202/outputs/samples/source_quality_audit.csv).
+Detailed populated-field rates by source are in [`outputs/samples/source_quality_audit.csv`](outputs/samples/source_quality_audit.csv).
 
 ## What worked best
 
@@ -138,19 +138,19 @@ Core output schema:
 - `confidence_flag`
 - `notes`
 
-See [`docs/schema.md`](/Users/karencolman/Documents/New%20project%202/docs/schema.md).
+See [`docs/schema.md`](docs/schema.md).
 
 ## Portfolio artifacts
 
 Useful project artifacts for review:
 
-- source audit: [`outputs/samples/source_quality_audit.md`](/Users/karencolman/Documents/New%20project%202/outputs/samples/source_quality_audit.md)
-- high-confidence sample rows: [`outputs/samples/high_confidence_sample.md`](/Users/karencolman/Documents/New%20project%202/outputs/samples/high_confidence_sample.md)
-- records by source: [`outputs/figures/records_by_source.html`](/Users/karencolman/Documents/New%20project%202/outputs/figures/records_by_source.html)
-- field completeness by source: [`outputs/figures/field_completeness_by_source.html`](/Users/karencolman/Documents/New%20project%202/outputs/figures/field_completeness_by_source.html)
-- top extracted funds by NAV / market value: [`outputs/figures/top_funds_by_nav.html`](/Users/karencolman/Documents/New%20project%202/outputs/figures/top_funds_by_nav.html)
-- confidence flag distribution: [`outputs/figures/confidence_flag_distribution.html`](/Users/karencolman/Documents/New%20project%202/outputs/figures/confidence_flag_distribution.html)
-- validation issue breakdown: [`outputs/figures/validation_issue_breakdown.html`](/Users/karencolman/Documents/New%20project%202/outputs/figures/validation_issue_breakdown.html)
+- source audit: [`outputs/samples/source_quality_audit.md`](outputs/samples/source_quality_audit.md)
+- high-confidence sample rows: [`outputs/samples/high_confidence_sample.md`](outputs/samples/high_confidence_sample.md)
+- records by source: [`outputs/figures/records_by_source.html`](outputs/figures/records_by_source.html)
+- field completeness by source: [`outputs/figures/field_completeness_by_source.html`](outputs/figures/field_completeness_by_source.html)
+- top extracted funds by NAV / market value: [`outputs/figures/top_funds_by_nav.html`](outputs/figures/top_funds_by_nav.html)
+- confidence flag distribution: [`outputs/figures/confidence_flag_distribution.html`](outputs/figures/confidence_flag_distribution.html)
+- validation issue breakdown: [`outputs/figures/validation_issue_breakdown.html`](outputs/figures/validation_issue_breakdown.html)
 
 ## Repository structure
 
@@ -168,14 +168,14 @@ Useful project artifacts for review:
 
 Main code entry points:
 
-- [`src/download_calpers_pdfs.py`](/Users/karencolman/Documents/New%20project%202/src/download_calpers_pdfs.py)
-- [`src/extract_text.py`](/Users/karencolman/Documents/New%20project%202/src/extract_text.py)
-- [`src/extract_tables.py`](/Users/karencolman/Documents/New%20project%202/src/extract_tables.py)
-- [`src/parse_metrics.py`](/Users/karencolman/Documents/New%20project%202/src/parse_metrics.py)
-- [`src/normalize_schema.py`](/Users/karencolman/Documents/New%20project%202/src/normalize_schema.py)
-- [`src/validate_records.py`](/Users/karencolman/Documents/New%20project%202/src/validate_records.py)
-- [`src/build_dashboard_data.py`](/Users/karencolman/Documents/New%20project%202/src/build_dashboard_data.py)
-- [`src/build_portfolio_artifacts.py`](/Users/karencolman/Documents/New%20project%202/src/build_portfolio_artifacts.py)
+- [`src/download_calpers_pdfs.py`](src/download_calpers_pdfs.py)
+- [`src/extract_text.py`](src/extract_text.py)
+- [`src/extract_tables.py`](src/extract_tables.py)
+- [`src/parse_metrics.py`](src/parse_metrics.py)
+- [`src/normalize_schema.py`](src/normalize_schema.py)
+- [`src/validate_records.py`](src/validate_records.py)
+- [`src/build_dashboard_data.py`](src/build_dashboard_data.py)
+- [`src/build_portfolio_artifacts.py`](src/build_portfolio_artifacts.py)
 
 ## How to run
 
